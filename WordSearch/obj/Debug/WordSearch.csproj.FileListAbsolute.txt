@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\WordSearch\WordSearch\bin\Debug\WordSearch.exe.config
+E:\Visual Studio Projects\WordSearch\WordSearch\bin\Debug\WordSearch.exe
+E:\Visual Studio Projects\WordSearch\WordSearch\bin\Debug\WordSearch.pdb
+E:\Visual Studio Projects\WordSearch\WordSearch\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio Projects\WordSearch\WordSearch\obj\Debug\WordSearch.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\WordSearch\WordSearch\obj\Debug\WordSearch.Form1.resources
+E:\Visual Studio Projects\WordSearch\WordSearch\obj\Debug\WordSearch.Properties.Resources.resources
+E:\Visual Studio Projects\WordSearch\WordSearch\obj\Debug\WordSearch.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\WordSearch\WordSearch\obj\Debug\WordSearch.exe
+E:\Visual Studio Projects\WordSearch\WordSearch\obj\Debug\WordSearch.pdb
